@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Multiplication :]]>
+    </line>
+    <line>
+      <![CDATA[Multiplication Result]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Division :]]>
+    </line>
+    <line>
+      <![CDATA[Division Result]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Addition :]]>
+    </line>
+    <line>
+      <![CDATA[Addition Result]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Subtraction :]]>
+    </line>
+    <line>
+      <![CDATA[Subtraction Result]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-29T14:20:35 IST" name="Suite1" finished-at="2022-04-29T14:21:13 IST" duration-ms="38149">
+    <groups>
+    </groups>
+    <test started-at="2022-04-29T14:20:35 IST" name="Nopackage" finished-at="2022-04-29T14:21:13 IST" duration-ms="38149">
+      <class name="com.cal.testscripts.TC003">
+        <test-method signature="tc003()[pri:0, instance:com.cal.testscripts.TC003@20ce78ec]" started-at="2022-04-29T14:20:56 IST" name="tc003" finished-at="2022-04-29T14:21:05 IST" duration-ms="8811" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Addition :]]>
+            </line>
+            <line>
+              <![CDATA[Addition Result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+      </class> <!-- com.cal.testscripts.TC003 -->
+      <class name="com.cal.testscripts.TC002">
+        <test-method signature="tc002()[pri:0, instance:com.cal.testscripts.TC002@7714e963]" started-at="2022-04-29T14:20:47 IST" name="tc002" finished-at="2022-04-29T14:20:56 IST" duration-ms="8403" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Division :]]>
+            </line>
+            <line>
+              <![CDATA[Division Result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.cal.testscripts.TC002 -->
+      <class name="com.cal.testscripts.TC001">
+        <test-method signature="tc001()[pri:0, instance:com.cal.testscripts.TC001@35ef1869]" started-at="2022-04-29T14:20:35 IST" name="tc001" finished-at="2022-04-29T14:20:47 IST" duration-ms="12581" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Multiplication :]]>
+            </line>
+            <line>
+              <![CDATA[Multiplication Result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.cal.testscripts.TC001 -->
+      <class name="com.cal.testscripts.TC004">
+        <test-method signature="tc004()[pri:0, instance:com.cal.testscripts.TC004@393671df]" started-at="2022-04-29T14:21:05 IST" name="tc004" finished-at="2022-04-29T14:21:13 IST" duration-ms="8282" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Subtraction :]]>
+            </line>
+            <line>
+              <![CDATA[Subtraction Result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+      </class> <!-- com.cal.testscripts.TC004 -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
